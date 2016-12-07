@@ -1,0 +1,6 @@
+C:\Users\shaif\OneDrive\C#\C#corner\Problem05\Problem05\bin\Debug\Problem05.exe.config
+C:\Users\shaif\OneDrive\C#\C#corner\Problem05\Problem05\bin\Debug\Problem05.exe
+C:\Users\shaif\OneDrive\C#\C#corner\Problem05\Problem05\bin\Debug\Problem05.pdb
+C:\Users\shaif\OneDrive\C#\C#corner\Problem05\Problem05\obj\Debug\Problem05.csprojResolveAssemblyReference.cache
+C:\Users\shaif\OneDrive\C#\C#corner\Problem05\Problem05\obj\Debug\Problem05.exe
+C:\Users\shaif\OneDrive\C#\C#corner\Problem05\Problem05\obj\Debug\Problem05.pdb

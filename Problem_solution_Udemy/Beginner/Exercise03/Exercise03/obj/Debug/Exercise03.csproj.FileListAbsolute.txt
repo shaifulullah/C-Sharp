@@ -1,0 +1,5 @@
+C:\Users\shaif\OneDrive\C#\Udemy\Exercise03\Exercise03\bin\Debug\Exercise03.exe.config
+C:\Users\shaif\OneDrive\C#\Udemy\Exercise03\Exercise03\bin\Debug\Exercise03.exe
+C:\Users\shaif\OneDrive\C#\Udemy\Exercise03\Exercise03\bin\Debug\Exercise03.pdb
+C:\Users\shaif\OneDrive\C#\Udemy\Exercise03\Exercise03\obj\Debug\Exercise03.exe
+C:\Users\shaif\OneDrive\C#\Udemy\Exercise03\Exercise03\obj\Debug\Exercise03.pdb

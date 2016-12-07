@@ -1,0 +1,5 @@
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01Tracepoints\bin\Release\Ch07Ex01Tracepoints.exe
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01Tracepoints\bin\Release\Ch07Ex01Tracepoints.pdb
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01Tracepoints\obj\x86\Release\Ch07Ex01Tracepoints.csprojResolveAssemblyReference.cache
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01Tracepoints\obj\x86\Release\Ch07Ex01Tracepoints.exe
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01Tracepoints\obj\x86\Release\Ch07Ex01Tracepoints.pdb

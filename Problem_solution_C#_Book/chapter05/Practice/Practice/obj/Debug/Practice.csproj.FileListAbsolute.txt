@@ -1,0 +1,6 @@
+c:\users\shaif\documents\visual studio 2015\chapter05\Practice\Practice\bin\Debug\Practice.exe.config
+c:\users\shaif\documents\visual studio 2015\chapter05\Practice\Practice\bin\Debug\Practice.exe
+c:\users\shaif\documents\visual studio 2015\chapter05\Practice\Practice\bin\Debug\Practice.pdb
+c:\users\shaif\documents\visual studio 2015\chapter05\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+c:\users\shaif\documents\visual studio 2015\chapter05\Practice\Practice\obj\Debug\Practice.exe
+c:\users\shaif\documents\visual studio 2015\chapter05\Practice\Practice\obj\Debug\Practice.pdb

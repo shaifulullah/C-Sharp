@@ -1,0 +1,6 @@
+C:\Users\shaif\OneDrive\C#\C#corner\practce\practce\bin\Debug\practce.exe.config
+C:\Users\shaif\OneDrive\C#\C#corner\practce\practce\bin\Debug\practce.exe
+C:\Users\shaif\OneDrive\C#\C#corner\practce\practce\bin\Debug\practce.pdb
+C:\Users\shaif\OneDrive\C#\C#corner\practce\practce\obj\Debug\practce.exe
+C:\Users\shaif\OneDrive\C#\C#corner\practce\practce\obj\Debug\practce.pdb
+C:\Users\shaif\OneDrive\C#\C#corner\practce\practce\obj\Debug\practce.csprojResolveAssemblyReference.cache
