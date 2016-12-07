@@ -1,0 +1,6 @@
+C:\Users\shaif\OneDrive\C#\Udemy\Second Phase\Exercise01\Exercise01\bin\Debug\Exercise01.exe.config
+C:\Users\shaif\OneDrive\C#\Udemy\Second Phase\Exercise01\Exercise01\bin\Debug\Exercise01.exe
+C:\Users\shaif\OneDrive\C#\Udemy\Second Phase\Exercise01\Exercise01\bin\Debug\Exercise01.pdb
+C:\Users\shaif\OneDrive\C#\Udemy\Second Phase\Exercise01\Exercise01\obj\Debug\Exercise01.csprojResolveAssemblyReference.cache
+C:\Users\shaif\OneDrive\C#\Udemy\Second Phase\Exercise01\Exercise01\obj\Debug\Exercise01.exe
+C:\Users\shaif\OneDrive\C#\Udemy\Second Phase\Exercise01\Exercise01\obj\Debug\Exercise01.pdb

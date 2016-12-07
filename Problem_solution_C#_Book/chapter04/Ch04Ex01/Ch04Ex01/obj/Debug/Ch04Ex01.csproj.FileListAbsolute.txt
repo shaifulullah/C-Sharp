@@ -1,0 +1,6 @@
+c:\users\shaif\documents\visual studio 2015\chapter04\Ch04Ex01\Ch04Ex01\bin\Debug\Ch04Ex01.exe.config
+c:\users\shaif\documents\visual studio 2015\chapter04\Ch04Ex01\Ch04Ex01\bin\Debug\Ch04Ex01.exe
+c:\users\shaif\documents\visual studio 2015\chapter04\Ch04Ex01\Ch04Ex01\bin\Debug\Ch04Ex01.pdb
+c:\users\shaif\documents\visual studio 2015\chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\Ch04Ex01.csprojResolveAssemblyReference.cache
+c:\users\shaif\documents\visual studio 2015\chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\Ch04Ex01.exe
+c:\users\shaif\documents\visual studio 2015\chapter04\Ch04Ex01\Ch04Ex01\obj\Debug\Ch04Ex01.pdb

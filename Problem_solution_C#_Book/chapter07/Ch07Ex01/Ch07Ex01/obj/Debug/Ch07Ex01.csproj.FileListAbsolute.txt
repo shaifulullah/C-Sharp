@@ -1,0 +1,6 @@
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01\Ch07Ex01\bin\Debug\Ch07Ex01.exe.config
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01\Ch07Ex01\bin\Debug\Ch07Ex01.exe
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01\Ch07Ex01\bin\Debug\Ch07Ex01.pdb
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01\Ch07Ex01\obj\Debug\Ch07Ex01.csprojResolveAssemblyReference.cache
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01\Ch07Ex01\obj\Debug\Ch07Ex01.exe
+C:\Users\shaif\OneDrive\C#\chapter07\Ch07Ex01\Ch07Ex01\obj\Debug\Ch07Ex01.pdb

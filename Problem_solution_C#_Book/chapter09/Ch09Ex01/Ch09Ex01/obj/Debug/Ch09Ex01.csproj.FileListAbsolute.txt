@@ -1,0 +1,6 @@
+C:\Users\shaif\OneDrive\C#\chapter09\Ch09Ex01\Ch09Ex01\bin\Debug\Ch09Ex01.exe.config
+C:\Users\shaif\OneDrive\C#\chapter09\Ch09Ex01\Ch09Ex01\bin\Debug\Ch09Ex01.exe
+C:\Users\shaif\OneDrive\C#\chapter09\Ch09Ex01\Ch09Ex01\bin\Debug\Ch09Ex01.pdb
+C:\Users\shaif\OneDrive\C#\chapter09\Ch09Ex01\Ch09Ex01\obj\Debug\Ch09Ex01.csprojResolveAssemblyReference.cache
+C:\Users\shaif\OneDrive\C#\chapter09\Ch09Ex01\Ch09Ex01\obj\Debug\Ch09Ex01.exe
+C:\Users\shaif\OneDrive\C#\chapter09\Ch09Ex01\Ch09Ex01\obj\Debug\Ch09Ex01.pdb

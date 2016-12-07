@@ -1,0 +1,6 @@
+c:\users\shaif\documents\visual studio 2015\chapter03\exercise\exercise\bin\Debug\exercise.exe.config
+c:\users\shaif\documents\visual studio 2015\chapter03\exercise\exercise\bin\Debug\exercise.exe
+c:\users\shaif\documents\visual studio 2015\chapter03\exercise\exercise\bin\Debug\exercise.pdb
+c:\users\shaif\documents\visual studio 2015\chapter03\exercise\exercise\obj\Debug\exercise.csprojResolveAssemblyReference.cache
+c:\users\shaif\documents\visual studio 2015\chapter03\exercise\exercise\obj\Debug\exercise.exe
+c:\users\shaif\documents\visual studio 2015\chapter03\exercise\exercise\obj\Debug\exercise.pdb

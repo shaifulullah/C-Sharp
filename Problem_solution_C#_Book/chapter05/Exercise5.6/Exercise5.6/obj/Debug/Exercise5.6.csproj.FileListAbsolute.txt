@@ -1,0 +1,6 @@
+c:\users\shaif\documents\visual studio 2015\chapter05\Exercise5.6\Exercise5.6\bin\Debug\Exercise5.6.exe.config
+c:\users\shaif\documents\visual studio 2015\chapter05\Exercise5.6\Exercise5.6\bin\Debug\Exercise5.6.exe
+c:\users\shaif\documents\visual studio 2015\chapter05\Exercise5.6\Exercise5.6\bin\Debug\Exercise5.6.pdb
+c:\users\shaif\documents\visual studio 2015\chapter05\Exercise5.6\Exercise5.6\obj\Debug\Exercise5.6.csprojResolveAssemblyReference.cache
+c:\users\shaif\documents\visual studio 2015\chapter05\Exercise5.6\Exercise5.6\obj\Debug\Exercise5.6.exe
+c:\users\shaif\documents\visual studio 2015\chapter05\Exercise5.6\Exercise5.6\obj\Debug\Exercise5.6.pdb
