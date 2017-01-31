@@ -1,0 +1,6 @@
+C:\Content\C#Code\Problem_solution_Udemy\Intermediate\015-Exercises-Classes_1\015-Exercises-Classes_1\bin\Debug\015-Exercises-Classes_1.exe.config
+C:\Content\C#Code\Problem_solution_Udemy\Intermediate\015-Exercises-Classes_1\015-Exercises-Classes_1\bin\Debug\015-Exercises-Classes_1.exe
+C:\Content\C#Code\Problem_solution_Udemy\Intermediate\015-Exercises-Classes_1\015-Exercises-Classes_1\bin\Debug\015-Exercises-Classes_1.pdb
+C:\Content\C#Code\Problem_solution_Udemy\Intermediate\015-Exercises-Classes_1\015-Exercises-Classes_1\obj\Debug\015-Exercises-Classes_1.csprojResolveAssemblyReference.cache
+C:\Content\C#Code\Problem_solution_Udemy\Intermediate\015-Exercises-Classes_1\015-Exercises-Classes_1\obj\Debug\015-Exercises-Classes_1.exe
+C:\Content\C#Code\Problem_solution_Udemy\Intermediate\015-Exercises-Classes_1\015-Exercises-Classes_1\obj\Debug\015-Exercises-Classes_1.pdb

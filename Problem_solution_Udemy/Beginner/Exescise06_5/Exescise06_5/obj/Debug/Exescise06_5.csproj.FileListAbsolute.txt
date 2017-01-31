@@ -1,0 +1,6 @@
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exescise06_5\Exescise06_5\bin\Debug\Exescise06_5.exe.config
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exescise06_5\Exescise06_5\bin\Debug\Exescise06_5.exe
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exescise06_5\Exescise06_5\bin\Debug\Exescise06_5.pdb
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exescise06_5\Exescise06_5\obj\Debug\Exescise06_5.csprojResolveAssemblyReference.cache
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exescise06_5\Exescise06_5\obj\Debug\Exescise06_5.exe
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exescise06_5\Exescise06_5\obj\Debug\Exescise06_5.pdb

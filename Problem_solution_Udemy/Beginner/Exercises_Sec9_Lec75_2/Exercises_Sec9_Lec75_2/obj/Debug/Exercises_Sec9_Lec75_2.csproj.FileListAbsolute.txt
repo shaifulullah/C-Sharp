@@ -1,0 +1,6 @@
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercises_Sec9_Lec75_2\Exercises_Sec9_Lec75_2\bin\Debug\Exercises_Sec9_Lec75_2.exe.config
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercises_Sec9_Lec75_2\Exercises_Sec9_Lec75_2\bin\Debug\Exercises_Sec9_Lec75_2.exe
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercises_Sec9_Lec75_2\Exercises_Sec9_Lec75_2\bin\Debug\Exercises_Sec9_Lec75_2.pdb
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercises_Sec9_Lec75_2\Exercises_Sec9_Lec75_2\obj\Debug\Exercises_Sec9_Lec75_2.csprojResolveAssemblyReference.cache
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercises_Sec9_Lec75_2\Exercises_Sec9_Lec75_2\obj\Debug\Exercises_Sec9_Lec75_2.exe
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercises_Sec9_Lec75_2\Exercises_Sec9_Lec75_2\obj\Debug\Exercises_Sec9_Lec75_2.pdb

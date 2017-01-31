@@ -1,9 +1,0 @@
-C:\Users\shaif\OneDrive\C#\Udemy\Internediate\Practice\PracticeInter\PracticeInter\bin\Debug\PracticeInter.exe.config
-C:\Users\shaif\OneDrive\C#\Udemy\Internediate\Practice\PracticeInter\PracticeInter\bin\Debug\PracticeInter.exe
-C:\Users\shaif\OneDrive\C#\Udemy\Internediate\Practice\PracticeInter\PracticeInter\bin\Debug\PracticeInter.pdb
-C:\Users\shaif\OneDrive\C#\Udemy\Internediate\Practice\PracticeInter\PracticeInter\obj\Debug\PracticeInter.csprojResolveAssemblyReference.cache
-C:\Users\shaif\OneDrive\C#\Udemy\Internediate\Practice\PracticeInter\PracticeInter\obj\Debug\PracticeInter.exe
-C:\Users\shaif\OneDrive\C#\Udemy\Internediate\Practice\PracticeInter\PracticeInter\obj\Debug\PracticeInter.pdb
-C:\Users\shaif\OneDrive\C#GitHub\C Sharp\Problem_solution_Udemy\Intermediate\Practice\PracticeInter\PracticeInter\bin\Debug\PracticeInter.exe.config
-C:\Users\shaif\OneDrive\C#GitHub\C Sharp\Problem_solution_Udemy\Intermediate\Practice\PracticeInter\PracticeInter\obj\Debug\PracticeInter.exe
-C:\Users\shaif\OneDrive\C#GitHub\C Sharp\Problem_solution_Udemy\Intermediate\Practice\PracticeInter\PracticeInter\obj\Debug\PracticeInter.pdb

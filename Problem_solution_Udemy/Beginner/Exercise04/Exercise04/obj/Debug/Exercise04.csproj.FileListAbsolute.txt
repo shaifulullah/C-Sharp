@@ -4,3 +4,9 @@ C:\Users\shaif\OneDrive\C#\Udemy\Exercise04\Exercise04\bin\Debug\Exercise04.pdb
 C:\Users\shaif\OneDrive\C#\Udemy\Exercise04\Exercise04\obj\Debug\Exercise04.csprojResolveAssemblyReference.cache
 C:\Users\shaif\OneDrive\C#\Udemy\Exercise04\Exercise04\obj\Debug\Exercise04.exe
 C:\Users\shaif\OneDrive\C#\Udemy\Exercise04\Exercise04\obj\Debug\Exercise04.pdb
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercise04\Exercise04\bin\Debug\Exercise04.exe.config
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercise04\Exercise04\obj\Debug\Exercise04.exe
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercise04\Exercise04\obj\Debug\Exercise04.pdb
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercise04\Exercise04\bin\Debug\Exercise04.exe
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercise04\Exercise04\bin\Debug\Exercise04.pdb
+C:\Content\C#Code\Problem_solution_Udemy\Beginner\Exercise04\Exercise04\obj\Debug\Exercise04.csprojResolveAssemblyReference.cache
