@@ -1,1 +1,7 @@
 C:\Content\C#Code\Problem_solution_Udemy\Intermediate\Exercises-Inheritance\Exercises-Inheritance\bin\Debug\Exercises-Inheritance.exe.config
+C:\Content\Programming Language\C#Code\Problem_solution_Udemy\Intermediate\Exercises-Inheritance\Exercises-Inheritance\bin\Debug\Exercises-Inheritance.exe.config
+C:\Content\Programming Language\C#Code\Problem_solution_Udemy\Intermediate\Exercises-Inheritance\Exercises-Inheritance\bin\Debug\Exercises-Inheritance.exe
+C:\Content\Programming Language\C#Code\Problem_solution_Udemy\Intermediate\Exercises-Inheritance\Exercises-Inheritance\bin\Debug\Exercises-Inheritance.pdb
+C:\Content\Programming Language\C#Code\Problem_solution_Udemy\Intermediate\Exercises-Inheritance\Exercises-Inheritance\obj\Debug\Exercises-Inheritance.csprojResolveAssemblyReference.cache
+C:\Content\Programming Language\C#Code\Problem_solution_Udemy\Intermediate\Exercises-Inheritance\Exercises-Inheritance\obj\Debug\Exercises-Inheritance.exe
+C:\Content\Programming Language\C#Code\Problem_solution_Udemy\Intermediate\Exercises-Inheritance\Exercises-Inheritance\obj\Debug\Exercises-Inheritance.pdb
